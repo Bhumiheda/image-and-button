@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    border: 5px solid rgb(253, 251, 251);
+    padding: 10% 25%;
+  }
+  
+  .section {
+    height: 100%;
+    width: 100%;
+  }
+  
+  img {
+    width: 100%;
+    height: 88%;
+    display: block;
+  }
+  
+  button {
+    background: linear-gradient(to right, #cde694, #005e2cbe);
+    width: 100%;
+    height: 12%;
+    border: none;
+    text-transform: uppercase;
+    line-height: normal;
+  }
